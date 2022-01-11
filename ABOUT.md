@@ -1,0 +1,2 @@
+# EXPECTATIVAS DEL CURSO DE PROGRAMACION
+A priori mis expextativas del curso fueron poder introducirme a la programacion con el fin de comprender a un nivel basico el funcionamiento de los programas y la escritura en el lenguaje de programacion. Hoy, siendo el segundo dia, y sin tener ningun acercamiento previo al mundo de la programacion me he sentido bastante santisfecho con el esfuerzo, a pesar de que todo va cuesta arriba y me requiere dar una milla extra, no puedo demeritar lo que he aprendido, espero seguir en este camino hasta el final del curso.
